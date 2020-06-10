@@ -1,0 +1,145 @@
+body{ background-color: #f0f0f0;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    padding: 0;   
+    margin: 0;   
+}
+
+header{ width: 100%;
+  position: fixed;
+  padding: 25px;
+  z-index: 1000;
+  display: inline-block;
+  box-sizing: border-box;
+  background-color: green;
+
+}
+
+#logo{ width: 60px;
+     height: 60px;
+     display: block;
+     position: absolute;
+     bottom: -19px;
+}
+
+#page-name{ font-size: 25px;
+          color: #f0f0f0;
+          display: block;
+          left: 75px;
+          position: absolute;
+          top: 4px;
+          font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+#link{ right: 35px;
+  position: absolute;
+  top: 5px;
+  font-size: 25px;
+
+
+
+}
+
+.content{ margin-left: auto;
+        margin-right: auto;
+        margin-top: 0;
+        margin-bottom: 0;
+        position: relative;
+        width: 800px;
+        box-sizing: border-box;
+        padding: 10px;
+
+
+
+}
+
+.content.main{ height: 100%;
+             background-color: white;
+             position: relative;
+             overflow-y: auto;
+             padding-top: 60px;
+             padding-bottom: 100px;
+
+
+
+
+}
+
+
+footer{ background-color: #444;
+      bottom: 0;
+      position: fixed;
+      width: 100%;
+      height: 90px;
+      color: #f0f0f0;
+
+
+}
+h1{font-size: 40px;
+  text-align: center;
+}
+
+#foto-materia{ text-align: center;
+              display: inline;
+              left: 230px;
+              position: relative;
+
+
+
+
+}
+
+#mapa{     width: 290px;
+  float: left;
+
+}
+
+#telefone{    
+          position: relative;
+          left: 660px;
+          bottom: 17px;
+}
+
+#email{ position: relative;
+  left: 300px;
+  bottom: 53px;
+
+}
+#endereço{    
+  position: relative;
+  top: 20px;
+
+
+}
+
+#fonte{ font-size: 10px;
+  font-weight: 400;
+  color: #999;
+  line-height: 22px;
+  position: relative;
+  left: 80%;
+
+}
+
+
+
+.texto{ width: 20%;
+  display: inline-block;
+  text-align: center;
+  MARGIN: 10px;
+  margin-top: 45px;
+}
+
+.texto img { width: 100%;
+
+
+  }
+
+
+
+  
+
+
